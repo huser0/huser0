@@ -57,16 +57,22 @@ Other technologies that I already have contact with, Python, Php, React, Next.js
 
 ## Badges
 <div style="display: flex; gap: 10px;">
+   <img src="https://images.credly.com/size/340x340/images/d244c828-b281-4669-9b3b-761fdd4ea870/IBM-Growth-Behaviors.png"
+  href="https://www.credly.com/earner/earned/badge/17fde2ca-630c-4ce6-9849-ae0c9e69ba86" width="130px"/>
+  <img src="https://images.credly.com/size/680x680/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png"
+  href="https://www.credly.com/earner/earned/badge/9c0b9100-375d-4abb-8aef-445417fb23c2" width="130px"/>
 <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" 
  href="https://www.credly.com/earner/earned/badge/5a44ddc0-9b60-4fe4-9d56-c3c25372eb87" width="130px"/>
 <img src="https://images.credly.com/size/680x680/images/2d07eb92-26fd-4b4c-b3a4-3283bf9dcf74/IBM-Consulting-Way-Habits---Foundational.png"
  href="https://www.credly.com/earner/earned/badge/a03c5644-2785-44ed-b394-a7b472e65287" width="130px"/>
-<img src="https://images.credly.com/size/680x680/images/95ee7e27-9851-4f9f-bb74-be068767a59a/Retail-Industry-Jumpstart.png"
+<img src="https://images.credly.com/images/73ebf08e-6086-4e89-b0ff-56affd9a22f1/Retail-Industry-Jumpstart.png"
  href="https://www.credly.com/earner/earned/badge/220399f5-ead2-4d2a-a4ab-16722a6ecd9d" width="130px"/>
 <img src="https://images.credly.com/size/680x680/images/47a15e48-3fd7-4c36-8f7e-639a65945ad8/image.png" 
  href="https://www.credly.com/earner/earned/badge/b5c4ee97-0fcc-40aa-8f1d-820bd9d19b10" width="130px"/>
-<img src="https://images.credly.com/size/680x680/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" 
+<img src="https://images.credly.com/size/680x680/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob" 
  href="https://www.credly.com/earner/earned/badge/39d68559-1269-44d8-9110-d49cec2b6f66" width="130px"/>
+<img src="https://images.credly.com/images/454b5ba0-a11d-40cb-b775-1323da36a0fe/5f894f17-5457-4f66-ad51-3eaadd7254e7.png" 
+ href="https://www.credly.com/earner/earned/badge/3c477492-15e3-4203-9519-6032ef384312" width="130px"/>
 <img src="https://images.credly.com/size/680x680/images/254b883a-44a3-4cec-b6f2-946a80522b39/image.png"
  href="https://www.credly.com/earner/earned/badge/eed3546a-b8ef-4df3-9e54-2bc3fa6df676" width="130px"/>
 <img src="https://images.credly.com/size/680x680/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png"
