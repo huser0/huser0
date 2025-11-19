@@ -14,7 +14,7 @@ Certified as AWS Cloud Practitioner and Google Cloud Digital Leader, with strong
 
 ## Companies
 <div>
-<img href="https://www.kyndryl.com/us/en" height="100px" src="https://itforum.com.br/wp-content/uploads/2021/09/kyndryl_logo-1.jpg"/>
+<img style="margin: '0 8px;'" height="100px" src="https://media.licdn.com/dms/image/v2/C560BAQHgQ1kcTnuSCg/company-logo_200_200/company-logo_200_200/0/1630640554546/kyndryl_logo?e=1765411200&v=beta&t=rDkoUo5VCbSe6NxTJJn9XH1p--y75xaXJX11Maxj7AQ"/>
 <img href="https://www.ibm.com/br-pt" height="100px" src="https://www.ibm.com/design/language/dce3f5b8db2c0ff04296123f424b3d41/core_blue50_on_black.svg"/>
 </div>
 
@@ -87,7 +87,7 @@ Certified as AWS Cloud Practitioner and Google Cloud Digital Leader, with strong
 
 ## Where to find me
 
-[![Linkedin: Hugo Sergio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucz/)](https://www.linkedin.com/in/huser/)
+[![Linkedin: Hugo Sergio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucz/)](https://www.linkedin.com/in/hugosergio1/)
 
 
 
