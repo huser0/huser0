@@ -5,13 +5,11 @@
 <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" min-width="380px" max-width="380px" width="380px" align="right" alt="Computador iuriCode">
 
 
-Firstly, I'm Hugo, I live on the Brazilian coast, outside the schedule I really like outdoor activities/gym and spending time with family and friends. 
+IT professional with experience in corporate system support, data analysis, and development of fixes and automations, primarily in the retail sector. I work in critical environments ensuring stability and continuity of systems for offers, promotions, and pricing.
 
-I actually started programming in 2021, where I realized that it was indeed a passion. 
+Skilled in Java, Python, PHP, JavaScript, and Shell Script, with experience using Spring Boot, Docker, GCP, and Azure DevOps. I also handle monitoring through GKE Logging, Elasticsearch, and Kibana.
 
-I have real world experience with Java, JavaScript, Backbone.js, Hibernate, Jboss, SVN, MySQL. 
-
-Other technologies that I already have contact with, Python, Php, React, Next.js, StyledComponents, Tailwind, Vue.js, React Native, Oracle DataBase. Today I'm looking for you to delve deeper into the Salesforce ecosystem, an ecosystem that has been on the rise, it's worth it for you to delve deeper into the ecosystem ;)
+Certified as AWS Cloud Practitioner and Google Cloud Digital Leader, with strong interest in cloud and backend engineering. Experienced in Level 2 support, incident management, and on-call operations (including Black Friday), always focused on efficient delivery, reliability, and continuous improvement.
 </div>
 
 ## Companies
