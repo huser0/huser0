@@ -14,7 +14,8 @@ Certified as AWS Cloud Practitioner and Google Cloud Digital Leader, with strong
 
 ## Companies
 <div>
-<img height="100px" src="https://www.ibm.com/design/language/dce3f5b8db2c0ff04296123f424b3d41/core_blue50_on_black.svg"/>
+<img href="https://www.kyndryl.com/us/en" height="100px" src="https://itforum.com.br/wp-content/uploads/2021/09/kyndryl_logo-1.jpg"/>
+<img href="https://www.ibm.com/br-pt" height="100px" src="https://www.ibm.com/design/language/dce3f5b8db2c0ff04296123f424b3d41/core_blue50_on_black.svg"/>
 </div>
 
 ## Knowledge
