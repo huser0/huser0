@@ -2,7 +2,7 @@
 
 ## 🚀💻 About me
 <div>
-<img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" min-width="380px" max-width="380px" width="380px" align="right" alt="Computador iuriCode">
+<img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" min-width="380px" max-width="380px" width="380px" align="right">
 
 
 IT professional with experience in corporate system support, data analysis, and development of fixes and automations, primarily in the retail sector. I work in critical environments ensuring stability and continuity of systems for offers, promotions, and pricing.
