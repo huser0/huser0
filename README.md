@@ -14,7 +14,9 @@ Certified as AWS Cloud Practitioner and Google Cloud Digital Leader, with strong
 
 ## Companies
 <div>
-<img style="margin: '0 8px;'" height="100px" src="https://media.licdn.com/dms/image/v2/C560BAQHgQ1kcTnuSCg/company-logo_200_200/company-logo_200_200/0/1630640554546/kyndryl_logo?e=1765411200&v=beta&t=rDkoUo5VCbSe6NxTJJn9XH1p--y75xaXJX11Maxj7AQ"/>
+<img style="margin: '0 8px;'" height="100px" src="https://www.kyndryl.com/br/pt/privacy.thumb.800.480.1762370170660.png"/>
+<img style="margin: '0 8px;'" height="100px" src="https://media.licdn.com/dms/image/v2/D4D0BAQFE45vjDC9oGA/company-logo_200_200/company-logo_200_200/0/1723724338958/grupo_tigre_logo?e=2147483647&v=beta&t=e0I570MfLjuVuVJwexVcDrkeJ-qQsQPFBg_NZK3gDRA"/>
+<img style="margin: '0 8px;'" height="100px" src="https://brasilopenbadge.com.br/upload/empresa/109.png"/>
 <img href="https://www.ibm.com/br-pt" height="100px" src="https://www.ibm.com/design/language/dce3f5b8db2c0ff04296123f424b3d41/core_blue50_on_black.svg"/>
 </div>
 
